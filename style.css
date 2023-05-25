@@ -16,7 +16,7 @@ main {
     gap: 40px;
     padding: 40px;
     max-width: 1500px;
-    overflow: scroll;
+    overflow: auto;
 }
 
 a {
